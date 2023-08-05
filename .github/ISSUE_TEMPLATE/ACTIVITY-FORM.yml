@@ -15,6 +15,7 @@ body:
         - code sprint
         - tutorial
         - discussion
+        - non-work
         - else
     validations:
       required: true
