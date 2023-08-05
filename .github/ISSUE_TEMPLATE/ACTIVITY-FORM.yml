@@ -22,33 +22,17 @@ body:
     id: description
     attributes:
       label: What is this about?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      description: Don't forget to add links/refs, to mention other participants, etc.
     validations:
       required: true
   - type: dropdown
     id: length
     attributes:
       label: How long?
-      description: What amount of time do you think will be needed?
+      description: What amount of time do you think will be needed approximately? This will help with scheduling.
       multiple: true
       options:
         - a couple hours
         - a half-day
         - a day
         - a few days
-  - type: textarea
-    id: logs
-    attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
