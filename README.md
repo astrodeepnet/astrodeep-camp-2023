@@ -17,6 +17,8 @@ More info coming soon..
 
 The program is yet to decide and **we need your input** for that.
 
+The main activities will be related to **code sprints** and **scientific/technical/organisational discussions**, but we should also take the advantage of having Junpeng and Bastien joining to have **breakout sessions/informal tutorials** on some advanced topics you'd like to learn about. Depending on the weather, we may also organise some time off during the week for a outside activity.
+
 We have started a suggestion of activities [here](https://github.com/astrodeepnet/retreat-2023/issues) that you can start reviewing and possibly adding yourself to if you are interested.
 
 To propose your own set of activities (please do!) fill up the [short template](https://github.com/astrodeepnet/astrodeep-camp-2023/issues/new?template=ACTIVITY-FORM.yml) so we can start brainstorming on them.
