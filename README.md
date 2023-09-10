@@ -22,3 +22,55 @@ The main activities will be related to **code sprints** and **scientific/technic
 We have started a suggestion of activities [here](https://github.com/astrodeepnet/retreat-2023/issues) that you can start reviewing and possibly adding yourself to if you are interested.
 
 To propose your own set of activities (please do!) fill up the [short template](https://github.com/astrodeepnet/astrodeep-camp-2023/issues/new?template=ACTIVITY-FORM.yml) so we can start brainstorming on them.
+
+## Preliminary schedule
+
+### Monday
+
+#### Morning (9:30am - 12:00pm)
+- UNIONS discussion + general science drivers
+- Biswajit on research statement for postdocs
+
+#### Afternoon (2:00pm - 6:00pm)  
+- [Astrodeep organisation][orga] - _Axel, Eric, Cécile, Marina, Cyrille, Alex, Camille_
+- Light curve focused meeting - _Biswajit and Junpeng_
+
+### Tuesday 
+
+#### Morning (9:30am - 12:00pm)
+- [Debvader][debvader] sprint preparation - with _Cecile_ remote
+- TBD
+
+#### Afternoon (2:00pm - 6:00pm)
+- Transfer learning between VFX and cosmology lead by _Bastien_
+
+### Wednesday
+
+#### Morning (9:30am - 12:00pm)  
+- [Debvader][debvader] sprint 
+
+#### Afternoon (2:00pm - 6:00pm)
+- [Debvader][debvader] sprint
+
+### Thursday
+
+#### Morning (9:30am - 12:00pm)
+- [TUTORIAL][jaxpipe] Bayesian workflow in JAX - _Junpeng_
+- General discussion on probabilistic pipelines [#4](https://github.com/astrodeepnet/astrodeep-camp-2023/issues/4)
+
+#### Afternoon (2:00pm - 6:00pm)
+- [Debvader][debvader] sprint and wrap up
+- TBD
+
+### Friday
+
+#### Morning (9:30am - 12:00pm) 
+- darkpipe session - _Axel, Eric, Cécile, Marina, Cyrille, Alex, Camille, Cécile_
+
+#### Afternoon (2:00pm - 6:00pm)
+- Wrap up
+
+
+[orga]: https://github.com/astrodeepnet/astrodeep-camp-2023/issues/1
+[debvader]: https://github.com/astrodeepnet/astrodeep-camp-2023/issues/3
+[jaxpipe]: https://github.com/astrodeepnet/astrodeep-camp-2023/issues/5
