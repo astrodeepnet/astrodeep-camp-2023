@@ -38,11 +38,14 @@ To propose your own set of activities (please do!) fill up the [short template](
 ### Tuesday 
 
 #### Morning (9:30am - 12:00pm)
-- [Debvader][debvader] sprint preparation - with _Cecile_ remote
-- TBD
+- [Debvader][debvader] sprint preparation - _Bastien, Junpeng, Biswajit, Eric_
+- Metacoaddition software preparation for release - _Axel, Cyrille, Alex_
+- Work on SBI benchmark plots - _Justine_
 
 #### Afternoon (2:00pm - 6:00pm)
-- Transfer learning between VFX and cosmology lead by _Bastien_
+- Knowledge transfer learning between VFX and cosmology lead by _Bastien_
+- Using diffusion as prior for image deconvolution 
+- TBD
 
 ### Wednesday
 
